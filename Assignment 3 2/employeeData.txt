@@ -1,0 +1,9 @@
+Employee:e111:Tim Boye:Programmer:E
+Employee:e112:Jamie Oliver:Administrator:A
+Employee:e113:Boris Yeltsem:Janetor:C
+Employee:e114:Tony Abbott:Supreme overlord of the little people:E
+Academic:a111:Hodor:Lecturer:B:false
+Academic:a112:Alexandre Dumas:Professor:E:true
+Academic:a113:Jules Verne:Associate Professor:D:false
+Academic:a114:Kim Possible:Senior Lecturer:B:false
+Employee:458568:Tim:Boss man:A
